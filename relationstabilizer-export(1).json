@@ -1,0 +1,43 @@
+{
+  "Users" : {
+    "HAzJHMff0Ee7LEMHHrkobGd8g8v2" : {
+      "banned" : false,
+      "name" : "displayName()",
+      "relations" : [ {
+        "rel-2154684" : {
+          "currentValue" : "50%",
+          "selfActions" : {
+            "action-31545" : {
+              "actionDetail" : " a short action description",
+              "actionValue" : 10,
+              "date" : 321534
+            }
+          }
+        }
+      } ]
+    },
+    "LXrDDxJY7baA5Rgy6E8q8VVt6Ou1" : {
+      "banned" : false,
+      "name" : "Mathess M",
+      "relations" : [
+       
+          {
+            "currentValue" : "50%",
+            "selfActions" : [ {
+              "action-31545" : {
+                "actionDetail" : " a short action description",
+                "actionValue" : 10,
+                "date" : 321534
+              }
+            } ]
+          }
+        ,
+        {
+          "currentValue" : 0,
+          "name" : "dd",
+          "type" : 2
+        }
+      ]
+    }
+  }
+}
